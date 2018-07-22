@@ -12,20 +12,21 @@
     font-size: 20px;
 }
 .logo {
-    height: 200px;
-    background: #ccc;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    font-size: 20px;
+	display: flex;
+	flex-direction: column;
+  width: 48%;
 }
-.but {
-    display: flex;
-    justify-content: space-between;
+.string {
+	background: #ccc;
+	height: 200px;
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 
 }
 .but3 {
-    width: 48%;
+	display: flex;
 }
 header button{   
     height: 60px;
