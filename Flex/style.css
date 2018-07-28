@@ -1,14 +1,14 @@
-.start {
+header {
    display: flex;
    justify-content: space-between; 
 }
-.adver {
+.advertisement {
     width: 23%;
     height: 270px;
     background: #ccc;
     align-items: center;
     justify-content: center;
-    display: flex;
+    display: flex ;
     font-size: 20px;
 }
 .logo {
