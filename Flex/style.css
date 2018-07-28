@@ -2,7 +2,11 @@ header {
    display: flex;
    justify-content: space-between; 
 }
+<<<<<<< HEAD
 .advertisement {
+=======
+.vasa {
+>>>>>>> 25af2ee3d74f37cea732657ed5b41eb99121430e
     width: 23%;
     height: 270px;
     background: #ccc;
